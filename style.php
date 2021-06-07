@@ -1,5 +1,6 @@
 
 /* ////////////////  whole html page ///////////// */
+<style>
 *{
 	margin: 0;
 	padding: 0;
@@ -112,3 +113,4 @@ html{
     margin-bottom: 0!important;
 }
 
+</style>
