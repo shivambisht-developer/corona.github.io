@@ -1,6 +1,6 @@
-
-/* ////////////////  whole html page ///////////// */
 <style>
+/* ////////////////  whole html page ///////////// */
+
 *{
 	margin: 0;
 	padding: 0;
