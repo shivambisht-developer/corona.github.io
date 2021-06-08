@@ -366,7 +366,8 @@
 
     <footer class="mt-5">
      <div class="footer-style text-white text-center container-fluid">
-      <p>All rights reserved by &copy;copyright 2021</p>
+      <p>All rights reserved by &copy;copyright 2021 <br>
+         This web page created by shivam bisht</p>
 
     </div> 
 
